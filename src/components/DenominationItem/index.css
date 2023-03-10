@@ -1,0 +1,43 @@
+.app-container {
+  background-color: #150b3e;
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+}
+.inner-container {
+  display: flex;
+  flex-direction: row;
+}
+.dot {
+  height: 50px;
+  width: 50px;
+  background-color: #c7d2fe;
+  border-radius: 50%;
+  display: inline-block;
+  color: #7c3aed;
+}
+.para {
+  color: #d4d2db;
+}
+.para1 {
+  color: #585076;
+}
+.inner-container1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.head {
+  color: #c4c4c4;
+}
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.button {
+  background-color: #585076;
+  color: #c4c4c4;
+  border-color: #c4c4c4;
+}
